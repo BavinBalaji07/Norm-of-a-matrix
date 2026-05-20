@@ -58,5 +58,6 @@ print(norm_of_matrix)
 <img width="1521" height="858" alt="image" src="https://github.com/user-attachments/assets/7aa7f026-b881-467a-8bf8-50798d820d3b" />
 
 <img width="1436" height="818" alt="image" src="https://github.com/user-attachments/assets/d4b8d3f3-3842-4001-aae2-57838d4c486a" />
+
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
